@@ -1432,7 +1432,7 @@ internal class program
             menumode = 1; //Setup phase
             do
             {
-                Console.WriteLine("Base 69653, Riccardo Enterprises. Co");
+                Console.WriteLine("Base 69653, Ricardo Enterprises. Co");
                 Console.WriteLine(" ");
                 Console.Write("TYPE \"HELP\" FOR A LIST OF COMMANDS.");
                 Console.WriteLine("");
